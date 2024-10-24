@@ -19,11 +19,9 @@ This Python module is designed to fetch, convert, and update genre names from a 
 
 	1. Clone the repository.
 	2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
+		
+		pip install -r requirements.txt
+		
 	3. Set up your environment variables by creating a .env file in the project root:
 
 ```
